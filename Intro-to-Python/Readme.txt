@@ -9,3 +9,6 @@ In the notebook under settings ensure that 'enable extension manager' is ticked
 Next under 'view' collapse all code.
 
 Whilst teaching click on the trailing ellipses ... to expand that code section.
+
+I have also created PDF versions for those who like to teach from printed aide-memoires.
+Latter can also be used as class handouts.
