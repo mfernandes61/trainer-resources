@@ -6,6 +6,7 @@ or qr <img src="qr-code-da-trainers.png" width="96">
 
 Other useful course-related links:   
 * R, Rstudio & Tidyverse Cheatsheets - https://posit.co/resources/cheatsheets/    
-* R Graph gallery - https://r-graph-gallery.com/    
+* R Graph gallery - https://r-graph-gallery.com/
+* Similar goal to R graph gallery (and can complement it) R charts - https://r-charts.com/
 * Example datasets (as alternative/in addition to course ones ) https://www.kaggle.com/datasets    
 * Ever wondered how your colour palette is perceived by colour-blind people? https://projects.susielu.com/viz-palette    
