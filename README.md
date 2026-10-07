@@ -1,7 +1,8 @@
 # trainer-resources
 Resources that may be helpful to CCRIT trainers
 
-Access by this tinyurl https://tinyurl.com/teach-intro
+Access by this tinyurl https://tinyurl.com/teach-intro 
+or qr <img src="qr-code-da-trainers.png" width="96">
 
 Other useful course-related links:   
 * R, Rstudio & Tidyverse Cheatsheets - https://posit.co/resources/cheatsheets/    
