@@ -11,4 +11,4 @@ Other useful course-related links:
 * Plotnine gallery for the python users - https://plotnine.org/gallery/
 * Example datasets (as alternative/in addition to course ones ) https://www.kaggle.com/datasets    
 * Ever wondered how your colour palette is perceived by colour-blind people? https://projects.susielu.com/viz-palette    
-* If ou prefer the VSCode IDE then this article shows how to code Jupyter Notebooks there https://code.visualstudio.com/docs/datascience/jupyter-notebooks.   
+* If you prefer the VSCode IDE then this article shows how to code Jupyter Notebooks there https://code.visualstudio.com/docs/datascience/jupyter-notebooks.   
