@@ -8,6 +8,7 @@ Other useful course-related links:
 * R, Rstudio & Tidyverse Cheatsheets - https://posit.co/resources/cheatsheets/    
 * R Graph gallery - https://r-graph-gallery.com/
 * Similar goal to R graph gallery (and can complement it) R charts - https://r-charts.com/
+* Plotnine gallery for the python users - https://plotnine.org/gallery/
 * Example datasets (as alternative/in addition to course ones ) https://www.kaggle.com/datasets    
 * Ever wondered how your colour palette is perceived by colour-blind people? https://projects.susielu.com/viz-palette    
 * If ou prefer the VSCode IDE then this article shows how to code Jupyter Notebooks there https://code.visualstudio.com/docs/datascience/jupyter-notebooks.   
