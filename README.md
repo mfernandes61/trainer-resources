@@ -1,5 +1,5 @@
 # trainer-resources
-Resources that may be helpful to CCRIT trainers
+Resources that may be helpful to CCRIT trainers (And indeed to students on the DA in R or Python courses).  
 
 Access by this tinyurl https://tinyurl.com/teach-intro 
 or qr  <img src="qr-code-da-trainers.png" width="96">
