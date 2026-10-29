@@ -19,6 +19,7 @@ Other useful course-related links:
 data()          # list all available datasets.  
 head(mtcars)    # inspect a dataset.  
 ?iris           # open documentation. 
-* Tidy Tuesday data project library https://github.com/rfordatascience/tidytuesday.  
+* Tidy Tuesday data project library https://github.com/rfordatascience/tidytuesday.
+* Example data analysis projects to practice your skills on https://www.datacamp.com/blog/data-analytics-projects-all-levels.   
 * Ever wondered how your colour palette is perceived by colour-blind people? https://projects.susielu.com/viz-palette    
 * If you prefer the VSCode IDE then this article shows how to code Jupyter Notebooks there https://code.visualstudio.com/docs/datascience/jupyter-notebooks.   
